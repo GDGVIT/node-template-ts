@@ -5,7 +5,7 @@
 </p>
 
 ![Tests](https://github.com/GDGVIT/node-template-ts/workflows/Tests/badge.svg)
-[![codecov](https://codecov.io/gh/GDGVIT/node-template-ts/branch/master/graph/badge.svg)](https://codecov.io/gh/GDGVIT/node-template)
+[![codecov](https://codecov.io/gh/GDGVIT/node-template-ts/branch/master/graph/badge.svg)](https://codecov.io/gh/GDGVIT/node-template-ts)
 
 ## Functionality
 
