@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/30529572/72455010-fb38d400-37e7-11ea-9c1e-8cdeb5f5906e.png" />
+</a>
 	<h2 align="center">TypeScript Node.JS template</h2>
 	<h4 align="center">A template to quickstart Node.JS REST APIs with TypeScript<h4>
 </p>
@@ -90,3 +92,13 @@ Directory for defining routes. I don't think this needs more explanation.
 | [standard](https://npmjs.com/package/standard)       | Linting and styling tool.                                          |
 | [chai](https://npmjs.com/package/chai)               | Assertion Library                                                  |
 | [chai-http](https://npmjs.com/package/chai-http)     | Middleware for chai to test http endpoints                         |
+
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+<p align="center">
+	Made with :heart: by <a href="https://dscvit.com">DSC VIT</a>
+</p>
+
+
